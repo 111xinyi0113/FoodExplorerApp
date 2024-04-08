@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Tasty's",
+      "latitude": 55.84227240129426, 
+      "longitude": -4.429865511467548,
+      "description": "29 George St, Paisley PA1 2JY",
+      "image": "assets/image/tasty.jpg",
+      "tel": "07827096702"
+    },
+    {
+      "id": 2,
+      "name": "Kwang Tung Chinese Restaurant",
+      "latitude": 55.84228426094752, 
+      "longitude": -4.430426582768374,
+      "description": "39-41 George St, Paisley PA1 2JY",
+      "image": "assets/image/Kwang Tung.png",
+      "tel": "07542000000"
+    },
+    {
+      "id": 3,
+      "name": "Jam Jar Paisley",
+      "latitude": 55.843085863907305, 
+      "longitude": -4.425669154892289,
+      "description": "16 Shuttle St, Paisley PA1 1YD",
+      "image": "assets/image/Jam.jpg",
+      "tel": "07542000001"
+    },
+    {
+      "id": 4,
+      "name": "The Last Post",
+      "latitude": 55.8466529074202, 
+      "longitude": -4.4246204190372325,
+      "description": "County Sq, Paisley PA1 1BN",
+      "image": "assets/image/The Last Post.jpg",
+      "tel": "07542000003"
+    },
+    {
+      "id": 5,
+      "name": "Pepe's",
+      "latitude": 55.84492906155515, 
+      "longitude": -4.4236069830417195,
+      "description": "8 St Mirren St, Paisley PA1 1UA",
+      "image": "assets/image/Pepes.jpg",
+      "tel": "07542000005"
+    },
+    {
+      "id": 6,
+      "name": "Greggs",
+      "latitude": 55.8445296559229,  
+      "longitude": -4.423523567560996,
+      "description": "Shopping Centre, 34/35 Causeyside St., Paisley PA1 1UN",
+      "image": "assets/image/Greggs.jpg",
+      "tel": "07542000009"
+    }
+  ]
+  
