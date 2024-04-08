@@ -13,8 +13,6 @@ FoodExplorerApp is a mobile app developed in React Native that allows users to e
 
 ### Precondition
 
-在开始之前，确保您的开发环境包含以下工具和配置：
-
 Before you begin, make sure your development environment contains the following tools and configurations:
 
 - Node.js (recommended version 12+)
